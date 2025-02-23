@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Parkinsions-prediction-using-hand-drawn-spiral-images
 =======
-<<<<<<< HEAD
+
 # Parkinsions-prediction-using-hand-drawn-spiral-images
 =======
 # Parkinson's Disease Prediction Using Hand-Drawn Spiral Images  
