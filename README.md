@@ -1,9 +1,4 @@
 
-# Parkinsions-prediction-using-hand-drawn-spiral-images
-=======
-
-# Parkinsions-prediction-using-hand-drawn-spiral-images
-=======
 # Parkinson's Disease Prediction Using Hand-Drawn Spiral Images  
 
 This is a **Streamlit web application** that predicts **Parkinson’s disease** using hand-drawn spiral images. The model is based on a **Convolutional Neural Network (CNN)** trained on spiral images from healthy and Parkinson’s patients.  
