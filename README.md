@@ -56,14 +56,4 @@ parkinsons_prediction_app/
 * Add explainability (e.g., Grad-CAM visualization).
 * Deploy the app using Streamlit Cloud or AWS/GCP.
 
-## 📜 License
 
-This project is open-source under the MIT License.
-
-## 📞 Contact
-
-For any queries, feel free to reach out:
-
-📧 Email: your_email@example.com
-🔗 GitHub: yourusername
-```
